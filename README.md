@@ -1,2 +1,25 @@
-# -seiitirour2
-My personal repository
+# 学習内容
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+
+- Pine Script
+- MQL5
+
+- Python
+- GAS
+
+# 現状
+- Webアプリやサービスを作ろうとしてもGAS以外の方法で作り方を知らない
+- プログラミングは検索とAIを駆使して、エラーも任せっぱなしで、正直理解できていない
+
+# 目標
+- 英語を読めるようになる
+- 設計・プログラミングを行える
+- 順序立てて構築できる
+- Webアプリ・サービスを作れる
+
+# 作りたいもの
+- AIニュース生成ツール
+- 単語帳
